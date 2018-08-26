@@ -1,43 +1,35 @@
 {
-  "bahis1":[
+  "bahisler":[
     {
+      "bahisid":"1",
       "evsahibi":"Beşiktaş",
       "rakip":"Fenerbahçe",
       "saat":"19.45",
       "oran":"2.50",
-      "oranaciklama":"under"}
-  ]
-}
+      "oranaciklama":"under"},
 
-{
-  "bahis2":[
-    {
-      "evsahibi":"Beşiktaş",
-      "rakip":"Fenerbahçe",
-      "saat":"19.45",
-      "oran":"2.50",
-      "oranaciklama":"under"}
-  ]
-}
+      {
+        "bahisid":"2",
+        "evsahibi":"Beşiktaş",
+        "rakip":"Fenerbahçe",
+        "saat":"19.45",
+        "oran":"2.50",
+        "oranaciklama":"under"},
 
-{
-  "bahis3":[
-    {
-      "evsahibi":"Beşiktaş",
-      "rakip":"Fenerbahçe",
-      "saat":"19.45",
-      "oran":"2.50",
-      "oranaciklama":"under"}
-  ]
-}
+        {
+          "bahisid":"3",
+          "evsahibi":"Beşiktaş",
+          "rakip":"Fenerbahçe",
+          "saat":"19.45",
+          "oran":"2.50",
+          "oranaciklama":"under"},
 
-{
-  "bahis4":[
-    {
-      "evsahibi":"Beşiktaş",
-      "rakip":"Fenerbahçe",
-      "saat":"19.45",
-      "oran":"2.50",
-      "oranaciklama":"under"}
+          {
+            "bahisid":"4",
+            "evsahibi":"Beşiktaş",
+            "rakip":"Fenerbahçe",
+            "saat":"19.45",
+            "oran":"2.50",
+            "oranaciklama":"under"}
   ]
 }
