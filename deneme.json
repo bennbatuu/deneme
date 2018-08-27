@@ -1,7 +1,7 @@
 {
   "bahisler":[
     {
-      "bahisid":"1",
+      "bahisid":1,
       "evsahibi":"Beşiktaş",
       "rakip":"Fenerbahçe",
       "saat":"19.45",
@@ -9,7 +9,7 @@
       "oranaciklama":"under"},
 
       {
-        "bahisid":"2",
+        "bahisid":2,
         "evsahibi":"Beşiktaş",
         "rakip":"Fenerbahçe",
         "saat":"19.45",
@@ -17,7 +17,7 @@
         "oranaciklama":"under"},
 
         {
-          "bahisid":"3",
+          "bahisid":3,
           "evsahibi":"Beşiktaş",
           "rakip":"Fenerbahçe",
           "saat":"19.45",
@@ -25,7 +25,7 @@
           "oranaciklama":"under"},
 
           {
-            "bahisid":"4",
+            "bahisid":4,
             "evsahibi":"Beşiktaş",
             "rakip":"Fenerbahçe",
             "saat":"19.45",
