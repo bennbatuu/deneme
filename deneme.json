@@ -1,48 +1,48 @@
 {
    "Almanya": [
       {
-         "ID": "1”,
-         "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Tam Pansiyon”,
-         "Balon": "YOK”
+         "ID": "1",
+         "İsim": "Batuhan Küçük",
+         "Hotel": "Alkan",
+         "Pansiyon": "Tam Pansiyon",
+         "Balon": "YOK"
       },
 	
       {
-         "ID": "2”,
+         "ID": "2",
          "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Tam Pansiyon”,
-         "Balon": "YOK”
+         "Hotel": "Alkan",
+         "Pansiyon": "Tam Pansiyon",
+         "Balon": "YOK"
       },      
       
       {
-         "ID": "3”,
-         "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Tam Pansiyon”,
-         "Balon": "VAR”
+         "ID": "3",
+         "İsim": "Batuhan Küçük",
+         "Hotel": "Alkan",
+         "Pansiyon": "Tam Pansiyon",
+         "Balon": "VAR"
       },
 {
-         "ID": "4”,
-         "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Tam Pansiyon”,
-         "Balon": "YOK”
+         "ID": "4",
+         "İsim": "Batuhan Küçük",
+         "Hotel": "Alkan",
+         "Pansiyon": "Tam Pansiyon",
+         "Balon": "YOK"
       },
 {
-         "ID": "5”,
-         "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Yarım Pansiyon”,
-         "Balon": "VAR”
+         "ID": "5",
+         "İsim": "Batuhan Küçük",
+         "Hotel": "Alkan",
+         "Pansiyon": "Yarım Pansiyon",
+         "Balon": "VAR"
       },
 {
-         "ID": "6”,
-         "İsim": "Batuhan Küçük”,
-         "Hotel": "Alkan”,
-         "Pansiyon": "Yarım Pansiyon”,
-         "Balon": "YOK”
+         "ID": "6",
+         "İsim": "Batuhan Küçük",
+         "Hotel": "Alkan",
+         "Pansiyon": "Yarım Pansiyon",
+         "Balon": "YOK"
       },
 	
    ]
